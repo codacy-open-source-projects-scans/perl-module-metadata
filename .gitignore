@@ -1,0 +1,8 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Module-Metadata-*/
+/Module-Metadata-*.tar.gz
+/todo.txt
+/todo/
